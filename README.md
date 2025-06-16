@@ -22,13 +22,13 @@ The dataset includes 7 classes labeled from 0 to 6:
 
 | Label | Category            |
 |-------|---------------------|
-| 0     | Sport               |
-| 1     | Politics            |
-| 2     | Religion            |
-| 3     | Culture             |
-| 4     | Science and Tech    |
-| 5     | Economy             |
-| 6     | Health              |
+| 0     | Culture             |
+| 1     | Economy             |
+| 2     | Health              |
+| 3     | Politics            |
+| 4     | Religion            |
+| 5     | scitech             |
+| 6     | Sport               |
 
 A `label_encoder.pkl` file is provided to map between category names and numeric labels.
 
