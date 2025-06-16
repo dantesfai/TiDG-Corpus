@@ -26,7 +26,7 @@ The dataset includes 7 classes labeled from 0 to 6:
 | 1     | Politics            |
 | 2     | Religion            |
 | 3     | Culture             |
-| 4     | Science and Technology |
+| 4     | Science and Tech    |
 | 5     | Economy             |
 | 6     | Health              |
 
@@ -60,11 +60,10 @@ If you use this dataset for research or publication, please cite or reference th
 ## Acknowledgments
 This dataset was curated and cleaned to support research in low-resource language NLP, particularly for the Tigrinya language.
 
-```yaml
----
+
 
 ### 📄 LICENSE (MIT)
-```text
+```
 MIT License
 
 Copyright (c) 2025
