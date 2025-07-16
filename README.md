@@ -13,7 +13,7 @@ This repository hosts a clean, labeled dataset of Tigrinya text documents for mu
 - **Format**: CSV files (`train.csv`, `val.csv`, `test.csv`)
 - **Columns**:
   - `cleaned_text`: Preprocessed and normalized Tigrinya text
-  - `transliteration`: SERA transliteration of the original text
+  - `transliteration`: SERA transliteration of the cleaned text
   - `label`: Numeric label corresponding to one of the categories
 
 ## Categories
